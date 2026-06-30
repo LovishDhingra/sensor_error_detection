@@ -1,0 +1,35 @@
+# User data and logs
+users.json
+activity_logs.json
+user_datasets/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+activity_report_*.xlsx
+*.tmp
+*.bak
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+Thumbs.db
